@@ -1,0 +1,43 @@
+.image-input-output-contatiner {
+  display: flex;
+  justify-content: center;
+  max-width: 1500px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+.image-input-output-contatiner div {
+  margin: 30px;
+  width: 600px;
+  height: 100%;
+}
+.image-input-output-contatiner img {
+}
+.input-upload-image {
+  padding: 10px 30px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.main-app-page {
+  margin: 50px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ant-progress-text {
+  color: white !important;
+  font-size: 18px;
+}
+.status-loading-title {
+  font-size: 22px;
+  margin: 0px;
+}
+.status-section-container {
+  margin: 20px 0px;
+  width: 100%;
+}
+.input-upload-image input {
+  height: 30px;
+  font-size: 16px;
+}
