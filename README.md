@@ -2,7 +2,8 @@
 > An app for car detection using traditional machine learning algorithms (SVM) 
 
 ## Description
-//to be added
+A simple car detection model that identifies cars in an image by primarily extracting HOG (Histogram of Oriented Gradients) features. The model classifies whether the image contains cars, highlights the detected cars, and provides their positions in the image. It uses traditional machine learning algorithms and a Python script to simulate object detection techniques used in more advanced projects. This mini project was part of an Image Processing course to practice the course content.
+
 ## Interface
 ![User Interface](assets/interface.gif "Interface Page")
 
